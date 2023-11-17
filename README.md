@@ -7,7 +7,9 @@ iOS/Androidアプリ開発者向けの勉強会です。
 
 
 ## 過去の開催
-TBD
+
+- [一覧](https://github.com/kanmoba/kanmoba/issues?q=is%3Aissue++label%3Aevent)
+
 
 
 
